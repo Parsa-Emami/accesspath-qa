@@ -1,0 +1,8 @@
+{
+  "steps": [
+    {
+      "id": "landing",
+      "html": "<html lang=\"en\"><img src=\"demo.svg\" alt=\"Demo\"></html>"
+    }
+  ]
+}
